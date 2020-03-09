@@ -1,9 +1,0 @@
-Indicate to which class each computing application belongs.
-
-1. A home computer kept on a desktop and used by family members for emails, web browsing, social networking, and movie watching. PC - PCs are commonly used in the home or office
-
-2. A computer in an Amazon building accessed by thousands of people for online shopping. Server - The computer is serving information to thousands of users, accessed via network
-
-3. A computer in a cardiac pacemaker, which delivers electric shocks to keep a human's heart beating properly. Embedded - The computer embedded inside that pacemaker is about the size of a small fingernail. Medical devices are a common form of embedded computers.
-
-4. A computer at a federal laboratory that continually executes sophisticated algorithms on massive amounts of data from various weather stations to develop accurate weather forecasts. Server - Weather forecasting, along with modeling of tornadoes, hurricanes, tidal waves, and more, are common uses of supercomputers (a form of server). 
